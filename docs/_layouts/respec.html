@@ -5,6 +5,8 @@
     <title>{{ page.title }}</title>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
     {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append:
+    site.github.build_revision | relative_url }}">
     <script
       src="https://www.w3.org/Tools/respec/respec-w3c"
       class="remove"
