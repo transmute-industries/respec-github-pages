@@ -2,7 +2,7 @@
 
 #### How do I make a new specification?
 
-Just fork this repository and follow the instructions for using [GitHub Pages](https://guides.github.com/features/pages/).
+Follow the default github instructions for [creating-a-repository-from-a-template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
 
 #### Do I need to build anything?
 
