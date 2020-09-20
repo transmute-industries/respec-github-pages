@@ -54,6 +54,12 @@ respec: >
   </p>
 </section>
 
+<style>
+.red43 {
+  color: red;
+}
+</style>
+
 <p class="red43">Custom CSS is Supported!</p>
 
 ## Markdown is Supported !
