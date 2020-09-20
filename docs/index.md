@@ -77,3 +77,29 @@ Example link to bibliography here... [[RDF-DATASET-NORMALIZATION]].
   }
 }
 ```
+
+<section data-dfn-for="Foo" data-link-for="Foo">
+  <h2>Start your spec!</h2>
+  <pre class="idl">
+  interface Foo {
+    attribute Bar bar;
+    undefined doTheFoo();
+  };
+  </pre>
+  <section>
+    <h2><dfn>bar</dfn> attribute</h2>
+    <p>When getting, the <a>bar</a> attribute returns you a 🍹.</p>
+  </section>
+  <section>
+    <h2><dfn>doTheFoo(DOMString thing)</dfn> method</h2>
+    <p>When called, <code>doTheFoo(<var>thing</var>)</code> it MUST behave as follows:</p>
+    <ol class="algorithm">
+      <li>If <var>thing</var>....</li>
+      <li>Let <var>someProp</var>... of the [[!DOM]] spec.</li>
+    </ol>
+  </section>
+</section>
+
+<section id='conformance'>
+  <!-- This section is filled automatically by ReSpec. -->
+</section>

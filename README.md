@@ -4,11 +4,25 @@
 
 Just fork this repository and follow the instructions for using [GitHub Pages](https://guides.github.com/features/pages/).
 
+#### Do I need to build anything?
+
+No! GitHub will automatically handle everything for you.
+
 #### What is ReSpec?
 
 > ReSpec is a JS library that makes it easier to write technical specifications, or documents that tend to be technical in nature in general. It was originally designed for the purpose of writing W3C specifications, but has since grown to be able to support other outputs as well.
 
 - [w3c/respec](https://github.com/w3c/respec)
+
+#### Why should I use ReSpec?
+
+You should use ReSpec if you are serious about writing standards.
+
+There are other tools out there, but ReSpec is the best.
+
+ReSpec is also well supported, so if you need help, you can get it.
+
+See [respec.org/docs](https://respec.org/docs/).
 
 #### How do I configure a custom domain name?
 
