@@ -1,0 +1,23 @@
+title: Your Specification Title
+description: Your Specification Description
+url: "https://example.com"
+
+github:
+  private: false
+  license:
+    name: Apache-2.0
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/transmute-industries/respec-github-pages"
+
+defaults:
+  - scope:
+      path: "**/*.*"
+    values:
+      sitemap: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
