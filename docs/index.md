@@ -5,7 +5,7 @@ respec: >
   {
     "name": "your-spec-short-name",
     "status": "CG-DRAFT",
-    "latest": "https://example.com/spec/latest",
+    "latest": "https://transmute-industries.github.io/respec-github-pages/spec/latest",
     "repository": "https://github.com/transmute-industries/respec-github-pages",
     "issues": "https://github.com/transmute-industries/respec-github-pages/issues",
     "group": {
