@@ -20,6 +20,10 @@ See [./docs/v1](./docs/v1) for an example.
 
 #### What about versioning?
 
+You can create versions of your spec, and their URLs will be preserved.
+
+See [./docs/v0.1.2](./docs/v0.1.2) for an example.
+
 #### What is ReSpec?
 
 > ReSpec is a JS library that makes it easier to write technical specifications, or documents that tend to be technical in nature in general. It was originally designed for the purpose of writing W3C specifications, but has since grown to be able to support other outputs as well.
