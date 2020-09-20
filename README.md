@@ -8,13 +8,17 @@ Follow the default github instructions for [creating-a-repository-from-a-templat
 
 No! GitHub will automatically handle everything for you.
 
-#### What if I need to server JSON files as well?
+#### What if I need to serve JSON files with nice URLs?
 
 GitHub will automtically serve them with the correct `content-type` if you name them with a `.json` extension.
 
 This means that `https://example.com/ns/spec/v1` will automatically be json if you create a file:
 
 `./docs/ns/spec/v1/index.json`
+
+See [./docs/v1](./docs/v1) for an example.
+
+#### What about versioning?
 
 #### What is ReSpec?
 
