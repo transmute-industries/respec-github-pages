@@ -8,6 +8,14 @@ Follow the default github instructions for [creating-a-repository-from-a-templat
 
 No! GitHub will automatically handle everything for you.
 
+#### What if I need to server JSON files as well?
+
+GitHub will automtically serve them with the correct `content-type` if you name them with a `.json` extension.
+
+This means that `https://example.com/ns/spec/v1` will automatically be json if you create a file:
+
+`./docs/ns/spec/v1/index.json`
+
 #### What is ReSpec?
 
 > ReSpec is a JS library that makes it easier to write technical specifications, or documents that tend to be technical in nature in general. It was originally designed for the purpose of writing W3C specifications, but has since grown to be able to support other outputs as well.
